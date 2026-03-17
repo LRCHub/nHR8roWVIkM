@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "エース",
+  "base_artist": "CHiCO",
+  "createdAt": "2026-03-17T08:36:07.212927Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "エース",
+      "artist": "CHiCO",
+      "has_synced": true,
+      "path": "select/01_エース_CHiCO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "エース",
+      "artist": "CHiCO",
+      "has_synced": true,
+      "path": "select/02_エース_CHiCO.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "エース、すなわち",
+      "artist": "カツラギエース (CV. 藤原夏海)",
+      "has_synced": true,
+      "path": "select/03_エース、すなわち_カツラギエース_(CV._藤原夏海).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "エース、すなわち",
+      "artist": "カツラギエース (CV.藤原夏海)",
+      "has_synced": true,
+      "path": "select/04_エース、すなわち_カツラギエース_(CV.藤原夏海).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "エース",
+      "artist": "CHiCO",
+      "has_synced": false,
+      "path": "select/pl_01_エース_CHiCO.txt"
+    }
+  ]
+}
